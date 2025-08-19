@@ -31,7 +31,7 @@ A WGPU/WGSL-based quantum vortex dynamics simulator for superfluid helium
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=SpeedyTurtle599&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="150" alt="stats graph" /> -->
 
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SpeedyTurtle599&layout=compact&card_width=1024&langs_count=10&theme=github_dark&hide_border=false" height="512" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SpeedyTurtle599&layout=compact&card_width=512&langs_count=10&theme=github_dark&hide_border=false" height="256" alt="languages graph" />
 </div>
 
 ###
