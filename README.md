@@ -14,15 +14,15 @@
 
 <div align="left">
   <!-- Core Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/c/c-original.svg" height="30" alt="C logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="Rust logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/rust/rust-original.svg" height="30" alt="Rust logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg" height="30" alt="CUDA logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/fortran/fortran-original.svg" height="30" alt="Fortran logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" height="30" alt="Fortran logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/aarch64/aarch64-original.svg" height="30" alt="aarch64-asm logo" />
   <img width="12" />
 </div>
 
