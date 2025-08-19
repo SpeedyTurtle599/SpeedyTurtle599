@@ -1,6 +1,28 @@
 <h2 align="left">My name is Benjamin Coveler, and I'm a mechanical engineer from the USA.</h2>
 
-###
+### Featured Projects
+
+<div align="left">
+
+**[lattice-boltzmann-rs](https://github.com/SpeedyTurtle599/lattice-boltzmann-rs)**  
+A WGPU/WGSL-based high-performance D3Q27 Lattice-Boltzmann solver for incompressible Navier-Stokes equations.  
+- STL geometry input and ParaView-compatible VTK output  
+- JSON-based configuration for flexible simulation control  
+- Implements bounce-back, inlet, and outlet boundary conditions
+
+**[sphereSolver](https://github.com/SpeedyTurtle599/sphereSolver)**  
+A CUDA-based 3D CFD solver for turbulent flow around a sphere.  
+- Includes viscous boundary layer and log wall law
+- k-epsilon and SST k-omega turbulence modelling
+- SIMPLEc pressure correction
+
+**[vortex-cores-rs](https://github.com/SpeedyTurtle599/vortex-cores-rs)**  
+A WGPU/WGSL-based quantum vortex dynamics simulator for superfluid helium
+- Uses vortex filament methods and Biot-Savart integration
+- Supports mutual friction, external fields, and checkpointing  
+- Visualizes vortex evolution via VTK output and ParaView integration
+
+</div>
 
 <div align="center">
   <!-- GitHub Stats Card (optional) -->
