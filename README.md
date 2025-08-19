@@ -1,4 +1,4 @@
-<h2 align="left">My name is Benjamin Coveler, and I'm a mechanical engineer from the USA.</h2>
+<h2 align="left">I'm Benjamin Coveler, and I'm interested in CFD.</h2>
 
 ### Featured Projects
 
@@ -23,6 +23,8 @@ A WGPU/WGSL-based quantum vortex dynamics simulator for superfluid helium
 - Visualizes vortex evolution via VTK output and ParaView integration
 
 </div>
+
+###
 
 <div align="center">
   <!-- GitHub Stats Card (optional) -->
